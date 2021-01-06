@@ -1,2 +1,2 @@
-npm i<br />
-gulp serve
+<code>npm i</code>
+<code>gulp serve</code>
