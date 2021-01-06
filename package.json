@@ -41,5 +41,8 @@
     "marquee3000": "^1.0.9",
     "material-components-web": "0.39.3",
     "pace-progress": "^1.0.2"
-  }
+  },
+  "browserslist": [
+    "defaults"
+  ]
 }
