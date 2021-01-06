@@ -1,16 +1,5 @@
 {
-  "private": true,
-  "browserslist": [
-    "Edge 16"
-  ],
-  "postcss": {
-    "plugins": {
-      "postcss-normalize": {},
-      "postcss-preset-env": {},
-      "autoprefixer": {}
-    }
-  },
-  "name": "crypto-html",
+  "name": "@g2entgroup/crypto-html",
   "version": "1.0.1",
   "description": "",
   "main": "gulpfile.js",
