@@ -3,9 +3,16 @@
   "version": "1.0.1",
   "description": "",
   "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/g2entgroup/expert-guide.git"
+  },
   "author": "",
   "license": "ISC",
-  "homepage": "https://www.g2entgroup.com",
+  "bugs": {
+    "url": "https://github.com/g2entgroup/expert-guide/issues"
+  },
+  "homepage": "https://github.com/g2entgroup/expert-guide",
   "devDependencies": {
     "browser-sync": "^2.24.6",
     "dateformat": "^3.0.3",
