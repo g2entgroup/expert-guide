@@ -1,2 +1,4 @@
-<code>npm i</code><br>
-<code>gulp serve</code>
+<ul>
+  <li><code>npm i</code></li>
+  <li><code>gulp serve</code></li>
+</ul>
