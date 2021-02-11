@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.3.1",
-    "apexcharts": "^2.0.4",
+    "apexcharts": "^3.24.0",
     "marquee3000": "^1.0.9",
     "material-components-web": "0.39.3",
     "pace-progress": "^1.0.2"
